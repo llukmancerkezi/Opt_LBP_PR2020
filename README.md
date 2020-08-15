@@ -2,17 +2,6 @@
 ### C++ implemenation of the *Towards more discriminative features for texture recognition* paper
 
 
-If you use this code please cite the following paper:
-
-@article{Cerkezi2020PR,
-title = {Towards more discriminative features for texture recognition},
-author = {Llukman Cerkezi and Cihan Topal},
-journal = {Pattern Recognition},
-volume = {107},
-pages = {107473},
-year = {2020},
-}
-
 **Warning:** Prior to run the code you need to install opencv 2.4.13.
 
 You can extract many types of LBPs
@@ -42,3 +31,15 @@ You can run the code for three different scenarios:
 In the **TestCase.cpp** you can see an example for each case applied on a sample image.
 
 In the **TestCaseClassification.cpp** you can see an example how to make classification on UIUC dataset.
+
+
+If you use this code please cite the following paper:
+
+@article{Cerkezi2020PR,
+title = {Towards more discriminative features for texture recognition},
+author = {Llukman Cerkezi and Cihan Topal},
+journal = {Pattern Recognition},
+volume = {107},
+pages = {107473},
+year = {2020},
+}
