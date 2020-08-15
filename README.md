@@ -28,7 +28,7 @@ See definitions of *decimal, uniform and riu* in the [paper](https://www.science
 You can run the code for three different scenarios:
 - Test Case 1. Extracting the final feature vector using only one type of LBP.
 - Test Case 2. Using two different LBP types jointly to obtain 2D joint histogram and then obtain the final feature vector either as concatenation of marginal histograms or by flattening the 2D joint histogram.
-- Test Case 3. Using two different LBP types jointly and then optimize the 2D joint histogram to obtain more discriminative 2D joint histogram (see the [paper]((https://www.sciencedirect.com/science/article/abs/pii/S0031320320302764)) for further details). You can obtain the final feature vector either as concatenation of marginal histograms or by flattening the 2D joint optimized histogram.
+- Test Case 3. Using two different LBP types jointly and then optimize the 2D joint histogram to obtain more discriminative 2D joint histogram (see the [paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302764) for further details). You can obtain the final feature vector either as concatenation of marginal histograms or by flattening the 2D joint optimized histogram.
 
 In the **TestCase.cpp** you can see an example for each case applied on a sample image.
 
@@ -41,16 +41,10 @@ In the **TestCaseClassification.cpp** you can see an example how to make classif
 If you use this code please cite the paper:
 
 @article{Cerkezi2020PR,
-
 title = {Towards more discriminative features for texture recognition},
-
 author = {Llukman Cerkezi and Cihan Topal},
-
 journal = {Pattern Recognition},
-
 volume = {107},
-
 pages = {107473},
-
 year = {2020},
 }
