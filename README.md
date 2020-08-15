@@ -9,11 +9,11 @@ You can extract many types of LBPs
 - Sign - See eq. (1) in the paper
 - Mean - See eq. (3) in the paper
 - ELBP_A - See eq. (24) in the paper
-- SignGlobalTh - It is same as Mean but with different threshold value. Threshold  is average pixel value of an image.
+- SignGlobalTh - It is the same as the Mean but with different threshold value. The threshold is average pixel value of an image.
 - MRE_Sign - See eq. (26)
 - MRE_Mean - See eq. (27)
 - MRE_ELBP_A - See eq. (27)
-- MRE_SignGlobalTh - It just the same as SignGlobalTh but applied the Median filter before. See section 4.1.2 in the paper
+- MRE_SignGlobalTh - It is the same as the SignGlobalTh but applied the median filter before. See section 4.1.2 in the paper for more detail.
 
 Furthermore you can use three different representations 
 
