@@ -32,7 +32,7 @@ You can run the code for three different scenarios:
 
 In the **TestCase.cpp** you can see an example for each case applied on a sample image.
 
-In the **TestCaseClassification.cpp** you can see an example how to do classification with neares neighbour classifier ($\chi^2$ distance) on UIUC dataset.
+In the **TestCaseClassification.cpp** you can see an example how to do classification with neares neighbour classifier ($\chi^2$ distance metric) on UIUC dataset.
 
 
 
