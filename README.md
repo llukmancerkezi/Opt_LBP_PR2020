@@ -9,7 +9,7 @@ pages = {107473},
 year = {2020},
 }
 
-Warning: Prior to run the code you need to install opencv 2.4.13.
+**Warning:** Prior to run the code you need to install opencv 2.4.13.
 
 You can extract many types of LBPs
 
@@ -28,7 +28,7 @@ Furthermore you can use three different representations
 - uniform - calculating the uniform value of binary code of pixels and obtain the histogram of these values 
 - riu - calculating the riu value of binary code of pixels and then obtain the histogram of these values 
 
-You can see definitions of decimal, uniform and riu in the paper.
+You can see definitions of *decimal, uniform and riu* in the paper.
 
 You can run the code for three different scenarios:
 - Test Case 1. Extracting the final feature vector using only one type of LBP.
