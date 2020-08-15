@@ -20,6 +20,7 @@ Furthermore you can use three different representations
 - decimal - converting binary code of pixels to decimal value and then obtain the histogram of these values 
 - uniform - calculating the uniform value of binary code of pixels and obtain the histogram of these values 
 - riu - calculating the riu value of binary code of pixels and then obtain the histogram of these values 
+
 See definitions of *decimal, uniform and riu* in the paper.
 
 You can run the code for three different scenarios:
