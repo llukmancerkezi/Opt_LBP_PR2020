@@ -1,5 +1,3 @@
-Comming soon....
-
 If you use this code please cite the following paper:
 
 @article{Cerkezi2020PR,
@@ -8,8 +6,6 @@ journal = {Pattern Recognition},
 volume = {107},
 pages = {107473},
 year = {2020},
-doi = {https://doi.org/10.1016/j.patcog.2020.107473},
-url = {http://www.sciencedirect.com/science/article/pii/S0031320320302764},
 }
 
 Warning: Prior to run the code you need to install opencv 2.4.13.
@@ -32,7 +28,6 @@ Furthermore you can use three different representations
 - riu - calculating the riu value of binary code of pixels and then obtain the histogram of these values 
 
 You can see definitions of decimal, uniform and riu in the paper.
-
 
 You can run the code for three different scenarios:
 - Test Case 1. Extracting the final feature vector using only one type of LBP.
