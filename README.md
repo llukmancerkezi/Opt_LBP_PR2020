@@ -39,6 +39,6 @@ You can run the code for three different scenarios:
 - Test Case 2. Using two different LBP types jointly to obtain 2D joint histogram and then obtain the final feature vector either as concatenation of marginal histograms or by flattening the 2D joint histogram.
 - Test Case 3. Using two different LBP types jointly and then optimize the 2D joint histogram to obtain more discriminative 2D joint histogram (see paper for further details). You can obtain the final feature vector either as concatenation of marginal histograms or by flattening the 2D joint optimized histogram.
 
-In the TestCase.cpp you can see an example for each case applied on a sample image.
+In the **TestCase.cpp** you can see an example for each case applied on a sample image.
 
-In the TestCaseClassification.cpp you can see an example how to make classification on UIUC dataset.
+In the **TestCaseClassification.cpp** you can see an example how to make classification on UIUC dataset.
