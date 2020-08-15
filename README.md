@@ -4,7 +4,7 @@
 [L. Cerkezi; C. Topal, "Towards more discriminative features for texture recognition", Pattern Recognition, 2020](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302764)
 
 
-**Warning:** Prior to run the code you need to install opencv 2.4.13.
+**Warning:** Prior to run the code you need to install opencv 2.4.13.6.
 
 You can extract many types of LBPs
 
