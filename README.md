@@ -1,7 +1,4 @@
 
-#### C++ code for the following paper: [L. Cerkezi; C. Topal, "Towards more discriminative features for texture recognition", Pattern Recognition, 2020](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302764)
-
-
 **C++ code for the following paper: [L. Cerkezi; C. Topal, "Towards more discriminative features for texture recognition", Pattern Recognition, 2020](https://www.sciencedirect.com/science/article/abs/pii/S0031320320302764)**
 
 
@@ -40,8 +37,6 @@ In the **TestCaseClassification.cpp** you can see an example how to make classif
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 If you use this code please cite the following paper:
-
-
 
 @article{Cerkezi2020PR,
 title = {Towards more discriminative features for texture recognition},
