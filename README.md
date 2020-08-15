@@ -33,9 +33,12 @@ In the **TestCase.cpp** you can see an example for each case applied on a sample
 In the **TestCaseClassification.cpp** you can see an example how to make classification on UIUC dataset.
 
 
-If you use this code please cite the following paper:
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+If you use this code please cite the following paper:
+
+
 
 @article{Cerkezi2020PR,
 title = {Towards more discriminative features for texture recognition},
