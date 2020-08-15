@@ -20,15 +20,8 @@ enum MIN_MAX { maxMetric, minMetric };
 
 int main(int argc, char** argv)
 {
-	
-
+	//reading the image
 	Mat image = imread("SampleImage.jpg", CV_LOAD_IMAGE_GRAYSCALE);   // Read the file
-
-	namedWindow("Display window", WINDOW_AUTOSIZE);// Create a window for display.
-	imshow("Display window", image);                   // Show our image inside it.
-
-	waitKey(0);
-
 
 	int dimF, dimC;
 	int radius=1;
