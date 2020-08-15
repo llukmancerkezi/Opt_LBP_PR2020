@@ -2,6 +2,7 @@ If you use this code please cite the following paper:
 
 @article{Cerkezi2020PR,
 title = {Towards more discriminative features for texture recognition},
+author = {Llukman Cerkezi and Cihan Topal},
 journal = {Pattern Recognition},
 volume = {107},
 pages = {107473},
