@@ -1,3 +1,7 @@
+
+### C++ implemenation of the *Towards more discriminative features for texture recognition* paper
+
+
 If you use this code please cite the following paper:
 
 @article{Cerkezi2020PR,
